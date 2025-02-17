@@ -1,0 +1,34 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    width: 75%;
+    height: 100vh;
+    float: left;
+}
+
+#controls {
+    width: 25%;
+    height: 100vh;
+    float: right;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+#controls div {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin-top: 5px;
+    padding: 5px;
+}
+
+button {
+    cursor: pointer;
+}
