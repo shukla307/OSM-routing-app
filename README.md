@@ -8,7 +8,7 @@ A web application that utilizes OpenStreetMap to provide routing functionality a
 - Define closed areas on the map
 - Save and manage areas
 - Interactive map interface
-- 
+  
 
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/ba6dcc59-1fc8-49fc-8ccb-dc109e99767a" />
 
